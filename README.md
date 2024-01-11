@@ -1,0 +1,4 @@
+The aim of the project is to effectively maintain and control a company's human resources operations from a single point. There are 3 different roles in the project. These are Site Administrator, Company Administrator and Personnel.
+The site administrator continues to update his own information and company operations. It is possible to list companies, add companies, and appoint company managers.
+The company manager can update his/her own information, list the personnel, add personnel, and respond to leave requests created by the personnel.
+Staff can update their own information, view leave requests, and request leave. There are 3 different permission requests. These are annual leave, expense request and advance payment request. We prepared a short promotional video about our project. You can also review our project via my GitHub account.
